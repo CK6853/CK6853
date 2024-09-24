@@ -30,7 +30,8 @@ I also have a decent amount of experience in creating Discord.js bots - some of 
   - PowerBI, Power Automate/Flows, Planner/Teams/Lists
 
 ### 🌱 Currently Learning
-Go - Understand most of the theory, still looking for an application to apply it in
+- Go - Understand most of the theory, still looking for an application to apply it in
+- GitHub 😅 - Most of my career I've just used it as a slightly more advanced Google Drive for solo projects, but now I'm actually trying to get into the collaborative side of things. Feedback is welcome. 
 
 ### 📫 How to reach me
 - If you've gotten here from my resume or my socials, please use those as a first point of contact. 
