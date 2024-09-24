@@ -6,6 +6,7 @@ Refreshing my skills with toy apps, getting up to speed on new technologies, and
 
 ### ⚙️ Past projects
 Available on GitHub are some of my recent skills-refreshing projects. I'll try to keep these pinned as I make them, because they're a good example of my current coding standards. 
+
 I also have a decent amount of experience in creating Discord.js bots - some of those repos are still public. Bear in mind that these are old, very specialised to specific servers/applications, and were made when I had zero professional experience. They're probably a mess. 
 
 ### 💡 Experience
