@@ -2,7 +2,7 @@
 I'm a software engineer who has spent the last three years in a job where security restrictions forced me to use the bare minimum of my programming talent, and I'm looking to branch back out into some interesting new projects. 
 
 ### 🔭 I’m currently working on ...
-Refreshing my skills with toy apps, getting up to speed on new technologies, and looking for some cool open-source projects to start contributing to. 
+Refreshing my skills with toy apps, learning some new skills and languages, and looking for some cool open-source projects to start contributing to. 
 
 ### ⚙️ Past projects
 Available on GitHub are some of my recent skills-refreshing projects. I'll try to keep these pinned as I make them, because they're a good example of my current coding standards. 
@@ -23,14 +23,14 @@ I also have a decent amount of experience in creating Discord.js bots - some of 
 - Robotics and Computer Vision
   - Mostly in Matlab, some Python
 - Hardware Systems
-  - Teensy/Arduino, C, some Assembly
+  - Teensy/Arduino (C), Raspberry Pi (Python), some Assembly and bespoke languages
 - Some Mobile development
   - Java/Android
 - Office 365 automation and integration
   - PowerBI, Power Automate/Flows, Planner/Teams/Lists
 
 ### 🌱 Currently Learning
-Go - Learned all the theory, still looking for an application to apply it in
+Go - Understand most of the theory, still looking for an application to apply it in
 
 ### 📫 How to reach me
 - If you've gotten here from my resume or my socials, please use those as a first point of contact. 
