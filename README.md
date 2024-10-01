@@ -5,7 +5,7 @@ I'm a software engineer who has spent the last three years in a job where securi
 Refreshing my skills with toy apps, learning some new skills and languages, and looking for some cool open-source projects to start contributing to. 
 
 ### ⚙️ Past projects
-Available on GitHub are some of my recent skills-refreshing projects. I'll try to keep these pinned as I make them, because they're a good example of my current coding standards. There probably aren't many yet, but I'm working on it. 
+Available on GitHub are some of my recent skills-refreshing projects. I'll try to keep these pinned as I make them, because they're a good example of my current coding standards. There probably aren't many yet, but I'm working on it. I'll also be refurbishing and uploading some past projects, but these will be a bit rougher so I probably won't pin them. 
 
 I also have a decent amount of experience in creating Discord.js bots - some of those repos are still public. Please bear in mind that most of these are old, very specialised to specific servers/applications, and were made when I had zero professional experience. They're probably a mess. 
 
