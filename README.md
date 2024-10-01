@@ -35,5 +35,5 @@ I also have a decent amount of experience in creating Discord.js bots - some of 
 
 ### 📫 How to reach me
 - If you've gotten here from my resume or my socials, please use those as a first point of contact. 
-- If you've found me through one of my Discord bots, my username there is DarkPhoenix6853. 
+- If you've found me through one of my Discord bots, my username there is DarkPhoenix6853. Feel free to send me a DM. 
 - Otherwise, I can be contacted at [sniper6853@hotmail.com](mailto:sniper6853@hotmail.com). It's not my primary address, so if you get spam-filtered I may not see it for a few days. 
