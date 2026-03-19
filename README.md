@@ -1,25 +1,16 @@
 ## Hi, I'm Caleb 👋
-I'm a software engineer who has spent the last three years in a job where security restrictions forced me to use the bare minimum of my programming talent, and I'm looking to branch back out into some interesting new projects. 
-
-### 🔭 I’m currently working on ...
-Refreshing my skills with toy apps, learning some new skills and languages, and looking for some cool open-source projects to start contributing to. 
-
-### ⚙️ Past projects
-Available on GitHub are some of my recent skills-refreshing projects. I'll try to keep these pinned as I make them, because they're a good example of my current coding standards. There probably aren't many yet, but I'm working on it. I'll also be refurbishing and uploading some past projects, but these will be a bit rougher so I probably won't pin them. 
-
-I also have a decent amount of experience in creating Discord.js bots - some of those repos are still public. Please bear in mind that most of these are old, very specialised to specific servers/applications, and were made when I had zero professional experience. They're probably a mess. 
+I'm a qualified software engineer with a focus on web development. 
 
 ### 💡 Experience
 - Full-stack Web Development
-  - Node, React, Express, SQL, some others
+  - My current job uses Nuxt/Vue, with a Directus backend
+  - Also have experience with React, Express and some others
+  - Node, SQL, Typescript and other basics I've probably forgotten about
+  - Some PHP, but mostly in the context of debugging legacy systems with AI assistance
 - Cloud Computing and Deployment
   - Docker, AWS/Azure
 - .NET applications
   - Mostly C#, some F#
-- Excel/Word/PowerPoint macros 
-  - VBA - not the most glamorous, but I have a lot of experience
-- AI and Machine Learning
-  - Mostly in Python, some Matlab
 - Robotics and Computer Vision
   - Mostly in Matlab, some Python
 - Hardware Systems
@@ -28,10 +19,10 @@ I also have a decent amount of experience in creating Discord.js bots - some of 
   - Java/Android
 - Office 365 automation and integration
   - PowerBI, Power Automate/Flow, Planner/Teams/Lists
-
-### 🌱 Currently Learning
-- Go - Understand most of the theory, still looking for an application to apply it in
-- GitHub 😅 - Most of my career I've just used it as a slightly more advanced Google Drive for solo projects, but now I'm actually trying to get into the collaborative side of things. Feedback is welcome. 
+  - A ton of VBA, not that it exists anymore
+  - Excel wizard
+- Discord bots
+  - Mostly using DiscordJS, some raw API experience
 
 ### 📫 How to reach me
 - If you've gotten here from my resume or my socials, please use those as a first point of contact. 
